@@ -1,2 +1,10 @@
 ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram  
 ram ram ram ram ram ram ram ram ram ram ram ram ram ram
+Git merge is a command in Git (a version control system) that combines changes from one branch into another branch.
+
+In simple words:
+👉 It joins two branches together.
+
+🔹 Why Do We Use Git Merge?
+
+When multiple developers work on different features using separate branches, we use git merge to combine those changes into the main branch (like main or master).
